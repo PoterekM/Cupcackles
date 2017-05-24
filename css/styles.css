@@ -1,0 +1,18 @@
+body {
+  background-color: brown;
+  color: darkseagreen;
+  text-align: center;
+}
+ul {
+    list-style-position: inside;
+}
+li.Bizarro {
+  color: yellow;
+}
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+.trashy {
+  color: salmon;
+}
